@@ -8,6 +8,8 @@ System.out.println("hi1");
 System.out.println("hi2");
 System.out.println("hi3");
 System.out.println("posting");
+System.out.println("posting1");
+System.out.println("posting2");
 	}
 
 }
